@@ -1,1 +1,1 @@
-# random-forest-
+his project implements a Random Forest Classifier using the Titanic dataset. Key steps include data preprocessing, splitting the data, and training models with 10, 100, and 500 trees to evaluate performance. The model's accuracy is compared across different configurations to analyze the impact of tree count.
